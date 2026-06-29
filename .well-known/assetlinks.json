@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.yahyaaljudiey.yemenilaws",
+      "sha256_cert_fingerprints": [
+        "A4:6E:40:46:02:7D:E2:24:C8:02:73:DF:73:2C:A4:FF:85:E0:86:F2:80:12:AC:59:9A:2E:78:EF:92:EF:3B:7C"
+      ]
+    }
+  }
+]
